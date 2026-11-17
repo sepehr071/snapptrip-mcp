@@ -1,0 +1,94 @@
+{
+ "cities": [
+  {
+   "iataCode": "THR",
+   "cityName": "Tehran",
+   "cityFaName": "تهران",
+   "countryCode": "IR",
+   "countryName": "Iran",
+   "countryFaName": "ایران",
+   "includeAllAirports": true,
+   "rank": 5048,
+   "airports": [
+    {
+     "iataCode": "THR",
+     "code": "THR",
+     "name": "Mehr Abad",
+     "faName": "مهرآباد",
+     "type": "DOM",
+     "timezone": "Asia/Tehran",
+     "rank": 3621
+    },
+    {
+     "iataCode": "IKA",
+     "code": "IKA",
+     "name": "Imam Khomeini Intl",
+     "faName": "فرودگاه بین المللی امام خمینی",
+     "type": "INT",
+     "timezone": "Asia/Tehran",
+     "rank": 618
+    }
+   ]
+  },
+  {
+   "iataCode": "IST",
+   "cityName": "Istanbul",
+   "cityFaName": "استانبول",
+   "countryCode": "TR",
+   "countryName": "Turkey",
+   "countryFaName": "ترکیه",
+   "includeAllAirports": true,
+   "rank": 1573,
+   "airports": [
+    {
+     "iataCode": "IST",
+     "code": "IST",
+     "name": "Istanbul",
+     "faName": "فرودگاه استانبول",
+     "type": "INT",
+     "timezone": "Europe/Istanbul",
+     "rank": 1011
+    },
+    {
+     "iataCode": "SAW",
+     "code": "SAW",
+     "name": "Sabiha Gokcen",
+     "faName": "فرودگاه صبیحا گوکچن",
+     "type": "INT",
+     "timezone": "Europe/Istanbul",
+     "rank": 25
+    },
+    {
+     "iataCode": "ISL",
+     "code": "ISL",
+     "name": "Istanbul Airport",
+     "faName": "Istanbul Airport",
+     "type": "INT",
+     "timezone": "Europe/Istanbul",
+     "rank": 1
+    }
+   ]
+  },
+  {
+   "iataCode": "MHD",
+   "cityName": "Mashhad",
+   "cityFaName": "مشهد",
+   "countryCode": "IR",
+   "countryName": "Iran",
+   "countryFaName": "ایران",
+   "includeAllAirports": true,
+   "rank": 1075,
+   "airports": [
+    {
+     "iataCode": "MHD",
+     "code": "MHD",
+     "name": "Mashhad Hashemi Nejad International",
+     "faName": "شهید هاشمی نژاد مشهد",
+     "type": "DOM-INT",
+     "timezone": "Asia/Tehran",
+     "rank": 1057
+    }
+   ]
+  }
+ ]
+}

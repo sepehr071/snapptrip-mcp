@@ -1,0 +1,67 @@
+{
+ "total": 363,
+ "page": 1,
+ "pageSize": 10,
+ "result": [
+  {
+   "id": 717599,
+   "passenger": "یاسر",
+   "pros": [
+    "برخورد پرسنل پذیرش شیفت شب خیلی خوب، ارامش اتاق خوب، نگهبان ورودی محترم،"
+   ],
+   "cons": [
+    "برخورد پذبرش شیفت روز میتونه بهتر باشه، خدمات همراه با مهمان وارد اسانسور نشه، یک اب کوچک و بزرگ روزانه باید شامل سرویس باشه بدون شارژ"
+   ],
+   "comment": "موقعیت مکانی و ارامش خوب، نظافت رضایت بخش، ارامش اتاق رضایت بخش، صبحانه خوب، روم سرویس خوب",
+   "createdAt": "2026-11-05T00:00:00Z",
+   "propertyId": 94,
+   "roomId": 337,
+   "roomTitle": "دو تخته برای یک نفر",
+   "nights": 1,
+   "source": "snapptrip-domestic",
+   "avgRating": 4.3,
+   "images": null,
+   "helpfulSubmitted": false
+  },
+  {
+   "id": 716585,
+   "passenger": "شهریار",
+   "pros": [
+    "خوش قیمت و برخورد بسیار خوب پرسنل هتل"
+   ],
+   "cons": [
+    "من مشکلی نداشتم "
+   ],
+   "comment": "فوق العاده بود . تصمیم دارم همیشه برای اقامت در شیراز این هتل رو انتخاب کنم",
+   "createdAt": "2026-11-05T00:00:00Z",
+   "propertyId": 94,
+   "roomId": 27769,
+   "roomTitle": "دو تخته برای یک نفر اکونومی ",
+   "nights": 1,
+   "source": "snapptrip-domestic",
+   "avgRating": 5,
+   "images": null,
+   "helpfulSubmitted": false
+  },
+  {
+   "id": 716008,
+   "passenger": "سارا",
+   "pros": [
+    "نظافت و امکانات و رفتار خوب پرسنل"
+   ],
+   "cons": [
+    "ندارد"
+   ],
+   "comment": "همه چی عالی بود،نظافت و امکانات\r\nنور و زیبایی اتاق\r\nرفتار پرسنل هتل",
+   "createdAt": "2026-11-02T00:00:00Z",
+   "propertyId": 94,
+   "roomId": 337,
+   "roomTitle": "دو تخته برای یک نفر",
+   "nights": 1,
+   "source": "snapptrip-domestic",
+   "avgRating": 4.8,
+   "images": null,
+   "helpfulSubmitted": false
+  }
+ ]
+}

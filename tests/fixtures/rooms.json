@@ -1,0 +1,374 @@
+[
+ {
+  "breakfast_included": true,
+  "extra_bed": 0,
+  "adults": 1,
+  "available_rooms": 2,
+  "hotel_id": 94,
+  "room_id": 27769,
+  "room_type_id": 115,
+  "room_type_title": "جدید  دو تخته",
+  "title": "دو تخته برای یک نفر اکونومی ",
+  "prices": {
+   "base_price": 0,
+   "local_price": 4978000,
+   "local_price_off": 4978000,
+   "original_sell_price": 4978000,
+   "has_extra_bed": false,
+   "has_full_board": false,
+   "has_half_board": false,
+   "has_half_charge_check_in": false,
+   "has_half_charge_check_out": false,
+   "has_child": false,
+   "child_final_price": 0,
+   "child_buy_price": 0,
+   "extra_bed_price": 0,
+   "extra_bed_buy_price": 0,
+   "full_board_price": 0,
+   "half_board_price": 0,
+   "half_charge_price_check_in": 0,
+   "half_charge_price_check_out": 0,
+   "adjustments": {
+    "snapp_pro": 0,
+    "peg": 0,
+    "b2b": 0,
+    "other": 0,
+    "total": 0
+   }
+  },
+  "snapp_pro_discount": false,
+  "racks": null,
+  "instalment_down_payment": "",
+  "provider": "extranet",
+  "booking_type": "voucher",
+  "book_need_confirm": true,
+  "rack_included": false,
+  "rule_id": 0,
+  "pe_badge_title": "",
+  "badges": null,
+  "cover_media": {
+   "id": 0,
+   "media": "/galleries/hotel/no-image.jpg",
+   "title": ""
+  },
+  "description": "",
+  "facilities_tags": [
+   {
+    "id": 590,
+    "icon": "fire_extinguisher",
+    "title": "اعلام حریق"
+   },
+   {
+    "id": 169,
+    "icon": "call",
+    "title": "تلفن"
+   },
+   {
+    "id": 171,
+    "icon": "PTPsofa2",
+    "title": "مبلمان"
+   },
+   {
+    "id": 173,
+    "icon": "kitchen",
+    "title": "یخچال"
+   },
+   {
+    "id": 174,
+    "icon": "tv",
+    "title": "تلویزیون"
+   },
+   {
+    "id": 195,
+    "icon": "local_cafe",
+    "title": "چای‌ساز"
+   },
+   {
+    "id": 279,
+    "icon": "local_bar",
+    "title": "مینی‌بار غیررایگان"
+   },
+   {
+    "id": 295,
+    "icon": "ac_unit",
+    "title": "اسپیلت‌"
+   },
+   {
+    "id": 450,
+    "icon": "shower",
+    "title": "دوش"
+   },
+   {
+    "id": 453,
+    "icon": "sanitizer",
+    "title": "صابون"
+   },
+   {
+    "id": 454,
+    "icon": "sanitizer",
+    "title": "شامپو"
+   },
+   {
+    "id": 455,
+    "icon": "sanitizer",
+    "title": "مسواک"
+   },
+   {
+    "id": 456,
+    "icon": "sanitizer",
+    "title": "خمیردندان"
+   },
+   {
+    "id": 458,
+    "icon": "spa",
+    "title": "دمپایی"
+   },
+   {
+    "id": 459,
+    "icon": "air",
+    "title": "سشوار"
+   },
+   {
+    "id": 460,
+    "icon": "dry_cleaning",
+    "title": "حوله"
+   },
+   {
+    "id": 462,
+    "icon": "checkroom",
+    "title": "رخت‌آویز"
+   },
+   {
+    "id": 463,
+    "icon": "checkroom",
+    "title": "کمد لباس"
+   },
+   {
+    "id": 465,
+    "icon": "lightbulb",
+    "title": "آباژور"
+   },
+   {
+    "id": 466,
+    "icon": "inventory_2",
+    "title": "دراور"
+   },
+   {
+    "id": 535,
+    "icon": "wifi",
+    "title": "اینترنت رایگان و نامحدود در اتاق"
+   },
+   {
+    "id": 156,
+    "icon": "wc",
+    "title": "سرویس بهداشتی فرنگی"
+   }
+  ],
+  "min_stay": 0,
+  "stay_duration_class": "",
+  "promotion": {
+   "average_discount_percent": 0
+  },
+  "daily_prices": [
+   {
+    "date": "2026-11-25",
+    "base_price": 0,
+    "local_price": 2489000,
+    "local_price_off": 2489000
+   },
+   {
+    "date": "2026-11-26",
+    "base_price": 0,
+    "local_price": 2489000,
+    "local_price_off": 2489000
+   }
+  ],
+  "is_hybrid": false
+ },
+ {
+  "breakfast_included": true,
+  "extra_bed": 0,
+  "adults": 1,
+  "available_rooms": 3,
+  "hotel_id": 94,
+  "room_id": 337,
+  "room_type_id": 113,
+  "room_type_title": "جدید یک تخته",
+  "title": "دو تخته برای یک نفر",
+  "prices": {
+   "base_price": 0,
+   "local_price": 5320000,
+   "local_price_off": 5320000,
+   "original_sell_price": 5320000,
+   "has_extra_bed": false,
+   "has_full_board": false,
+   "has_half_board": false,
+   "has_half_charge_check_in": false,
+   "has_half_charge_check_out": false,
+   "has_child": false,
+   "child_final_price": 0,
+   "child_buy_price": 0,
+   "extra_bed_price": 0,
+   "extra_bed_buy_price": 0,
+   "full_board_price": 0,
+   "half_board_price": 0,
+   "half_charge_price_check_in": 0,
+   "half_charge_price_check_out": 0,
+   "adjustments": {
+    "snapp_pro": 0,
+    "peg": 0,
+    "b2b": 0,
+    "other": 0,
+    "total": 0
+   }
+  },
+  "snapp_pro_discount": false,
+  "racks": null,
+  "instalment_down_payment": "",
+  "provider": "extranet",
+  "booking_type": "voucher",
+  "book_need_confirm": true,
+  "rack_included": false,
+  "rule_id": 0,
+  "pe_badge_title": "",
+  "badges": null,
+  "cover_media": {
+   "id": 0,
+   "media": "/galleries/hotel/no-image.jpg",
+   "title": ""
+  },
+  "description": "",
+  "facilities_tags": [
+   {
+    "id": 590,
+    "icon": "fire_extinguisher",
+    "title": "اعلام حریق"
+   },
+   {
+    "id": 153,
+    "icon": "air",
+    "title": "سشوار"
+   },
+   {
+    "id": 169,
+    "icon": "call",
+    "title": "تلفن"
+   },
+   {
+    "id": 171,
+    "icon": "PTPsofa2",
+    "title": "مبلمان"
+   },
+   {
+    "id": 173,
+    "icon": "kitchen",
+    "title": "یخچال"
+   },
+   {
+    "id": 174,
+    "icon": "tv",
+    "title": "تلویزیون"
+   },
+   {
+    "id": 195,
+    "icon": "local_cafe",
+    "title": "چای‌ساز"
+   },
+   {
+    "id": 279,
+    "icon": "local_bar",
+    "title": "مینی‌بار غیررایگان"
+   },
+   {
+    "id": 295,
+    "icon": "ac_unit",
+    "title": "اسپیلت‌"
+   },
+   {
+    "id": 450,
+    "icon": "shower",
+    "title": "دوش"
+   },
+   {
+    "id": 453,
+    "icon": "sanitizer",
+    "title": "صابون"
+   },
+   {
+    "id": 454,
+    "icon": "sanitizer",
+    "title": "شامپو"
+   },
+   {
+    "id": 455,
+    "icon": "sanitizer",
+    "title": "مسواک"
+   },
+   {
+    "id": 456,
+    "icon": "sanitizer",
+    "title": "خمیردندان"
+   },
+   {
+    "id": 458,
+    "icon": "spa",
+    "title": "دمپایی"
+   },
+   {
+    "id": 460,
+    "icon": "dry_cleaning",
+    "title": "حوله"
+   },
+   {
+    "id": 462,
+    "icon": "checkroom",
+    "title": "رخت‌آویز"
+   },
+   {
+    "id": 463,
+    "icon": "checkroom",
+    "title": "کمد لباس"
+   },
+   {
+    "id": 465,
+    "icon": "lightbulb",
+    "title": "آباژور"
+   },
+   {
+    "id": 466,
+    "icon": "inventory_2",
+    "title": "دراور"
+   },
+   {
+    "id": 535,
+    "icon": "wifi",
+    "title": "اینترنت رایگان و نامحدود در اتاق"
+   },
+   {
+    "id": 156,
+    "icon": "wc",
+    "title": "سرویس بهداشتی فرنگی"
+   }
+  ],
+  "min_stay": 0,
+  "stay_duration_class": "",
+  "promotion": {
+   "average_discount_percent": 0
+  },
+  "daily_prices": [
+   {
+    "date": "2026-11-25",
+    "base_price": 0,
+    "local_price": 2660000,
+    "local_price_off": 2660000
+   },
+   {
+    "date": "2026-11-26",
+    "base_price": 0,
+    "local_price": 2660000,
+    "local_price_off": 2660000
+   }
+  ],
+  "is_hybrid": false
+ }
+]

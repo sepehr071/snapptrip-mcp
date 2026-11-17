@@ -1,0 +1,609 @@
+{
+ "airfares": [
+  {
+   "id": "5768016055776463644-0",
+   "airlineCode": "NV",
+   "routes": [
+    {
+     "totalJourneyDuration": 60,
+     "totalConnectionsDuration": 0,
+     "originAirportCode": "THR",
+     "originAirportInfo": {
+      "airportCode": "THR",
+      "airportName": "",
+      "cityName": "Tehran",
+      "faCityName": "تهران",
+      "airportFaName": "فرودگاه بین‌المللی مهرآباد"
+     },
+     "destinationAirportCode": "MHD",
+     "destinationAirportInfo": {
+      "airportCode": "MHD",
+      "airportName": "",
+      "cityName": "Mashhad",
+      "faCityName": "مشهد",
+      "airportFaName": "فرودگاه بین‌المللی مشهد (فرودگاه شهید هاشمی‌نژاد)"
+     },
+     "segments": [
+      {
+       "departureDateTime": "2026-11-25T21:55:00",
+       "arrivalDateTime": "2026-11-25T22:55:00",
+       "flightNumber": "2638",
+       "journeyDuration": 60,
+       "connectionDuration": 0,
+       "departureAirportCode": "THR",
+       "departureAirportInfo": {
+        "airportCode": "THR",
+        "airportName": "",
+        "cityName": "Tehran",
+        "faCityName": "تهران",
+        "airportFaName": "فرودگاه بین‌المللی مهرآباد"
+       },
+       "arrivalAirportCode": "MHD",
+       "arrivalAirportInfo": {
+        "airportCode": "MHD",
+        "airportName": "",
+        "cityName": "Mashhad",
+        "faCityName": "مشهد",
+        "airportFaName": "فرودگاه بین‌المللی مشهد (فرودگاه شهید هاشمی‌نژاد)"
+       },
+       "carrierAirlineCode": "NV",
+       "carrierAirlineInfo": {
+        "airlineCode": "NV",
+        "airlineName": "کارون (نفت)"
+       },
+       "operatorAirlineCode": "NV",
+       "operatorAirlineInfo": {
+        "airlineCode": "NV",
+        "airlineName": "کارون (نفت)"
+       },
+       "cabinType": "ECONOMY",
+       "seatsRemaining": 6,
+       "baggage": "20",
+       "isReturn": false,
+       "isCharter": false,
+       "showFlightSystemBadge": false,
+       "technicalStops": null,
+       "fareClass": "HH",
+       "equipment": "F100",
+       "visaTransit": ""
+      }
+     ],
+     "baggageDetail": {
+      "providerText": "20",
+      "baggageInfoType": "WEIGHT",
+      "weight": 20,
+      "count": 0,
+      "description": "20 کیلوگرم"
+     },
+     "visaTransit": null,
+     "badgeList": [
+      {
+       "type": "TAG",
+       "title": "خرید قسطی",
+       "style": {
+        "color": "pay",
+        "variant": "round-contained"
+       },
+       "data": null,
+       "icon": "celebration"
+      }
+     ]
+    }
+   ],
+   "rules": null,
+   "baggage": null,
+   "pricing": {
+    "totalBasePrice": 100492000,
+    "totalDumpedPrice": 0,
+    "totalCashback": 0,
+    "totalOldPayablePrice": 97000000,
+    "totalPayablePrice": 100492000,
+    "discountPercentage": 0,
+    "totalTax": 0,
+    "totalCommission": 0,
+    "currency": "IRR",
+    "priceChangeStatus": "UNKNOWN",
+    "pricingDetails": [
+     {
+      "passengerType": "ADULT",
+      "quantity": 1,
+      "basePrice": 100492000,
+      "dumpedPrice": 0,
+      "cashback": 0,
+      "oldPayablePrice": 97000000,
+      "payablePrice": 100492000,
+      "tax": 0,
+      "serviceTax": 0,
+      "commission": 0,
+      "currency": "IRR",
+      "discountPercentage": 0
+     },
+     {
+      "passengerType": "CHILD",
+      "quantity": 0,
+      "basePrice": 100492000,
+      "dumpedPrice": 0,
+      "cashback": 0,
+      "oldPayablePrice": 97000000,
+      "payablePrice": 100492000,
+      "tax": 0,
+      "serviceTax": 0,
+      "commission": 0,
+      "currency": "IRR",
+      "discountPercentage": 0
+     },
+     {
+      "passengerType": "INFANT",
+      "quantity": 0,
+      "basePrice": 15540000,
+      "dumpedPrice": 0,
+      "cashback": 0,
+      "oldPayablePrice": 97000000,
+      "payablePrice": 15540000,
+      "tax": 0,
+      "serviceTax": 0,
+      "commission": 0,
+      "currency": "IRR",
+      "discountPercentage": 84
+     }
+    ]
+   },
+   "duplicated": false,
+   "refundType": "REFUNDABLE",
+   "weight": 0,
+   "cancellationPolicies": null,
+   "bestSortingWeight": 0,
+   "defaultSortingWeight": 0,
+   "isPinned": false,
+   "description": {
+    "text": "",
+    "description_type": ""
+   },
+   "properties": null,
+   "travelRuleList": null,
+   "policies": [
+    {
+     "origin": "فرودگاه بین‌المللی مهرآباد",
+     "destination": "فرودگاه بین‌المللی مشهد (فرودگاه شهید هاشمی‌نژاد)",
+     "cancellationPolicies": [
+      {
+       "description": "از لحظه صدور تا ساعت 12:00 ظهر 3 روز قبل از پرواز",
+       "adultPenaltyPercentage": 70,
+       "childPenaltyPercentage": 70,
+       "infantPenaltyPercentage": 70
+      },
+      {
+       "description": "از ساعت 12:00 ظهر 3 روز قبل از پرواز تا ساعت 12:00 ظهر 2 روز قبل از پرواز",
+       "adultPenaltyPercentage": 80,
+       "childPenaltyPercentage": 80,
+       "infantPenaltyPercentage": 80
+      },
+      {
+       "description": "از ساعت 12:00 ظهر 2 روز قبل از پرواز تا 12 ساعت مانده به لحظه پرواز",
+       "adultPenaltyPercentage": 90,
+       "childPenaltyPercentage": 90,
+       "infantPenaltyPercentage": 90
+      },
+      {
+       "description": "از 12 ساعت مانده به لحظه پرواز به بعد",
+       "adultPenaltyPercentage": 100,
+       "childPenaltyPercentage": 100,
+       "infantPenaltyPercentage": 100
+      }
+     ]
+    }
+   ],
+   "installment": {
+    "total_price": 28760500,
+    "adult_price": 28760500,
+    "isAvailable": false
+   }
+  },
+  {
+   "id": "5768016055776463644-1",
+   "airlineCode": "FP",
+   "routes": [
+    {
+     "totalJourneyDuration": 80,
+     "totalConnectionsDuration": 0,
+     "originAirportCode": "THR",
+     "originAirportInfo": {
+      "airportCode": "THR",
+      "airportName": "",
+      "cityName": "Tehran",
+      "faCityName": "تهران",
+      "airportFaName": "فرودگاه بین‌المللی مهرآباد"
+     },
+     "destinationAirportCode": "MHD",
+     "destinationAirportInfo": {
+      "airportCode": "MHD",
+      "airportName": "",
+      "cityName": "Mashhad",
+      "faCityName": "مشهد",
+      "airportFaName": "فرودگاه بین‌المللی مشهد (فرودگاه شهید هاشمی‌نژاد)"
+     },
+     "segments": [
+      {
+       "departureDateTime": "2026-11-25T12:25:00",
+       "arrivalDateTime": "2026-11-25T13:45:00",
+       "flightNumber": "7438",
+       "journeyDuration": 80,
+       "connectionDuration": 0,
+       "departureAirportCode": "THR",
+       "departureAirportInfo": {
+        "airportCode": "THR",
+        "airportName": "",
+        "cityName": "Tehran",
+        "faCityName": "تهران",
+        "airportFaName": "فرودگاه بین‌المللی مهرآباد"
+       },
+       "arrivalAirportCode": "MHD",
+       "arrivalAirportInfo": {
+        "airportCode": "MHD",
+        "airportName": "",
+        "cityName": "Mashhad",
+        "faCityName": "مشهد",
+        "airportFaName": "فرودگاه بین‌المللی مشهد (فرودگاه شهید هاشمی‌نژاد)"
+       },
+       "carrierAirlineCode": "FP",
+       "carrierAirlineInfo": {
+        "airlineCode": "FP",
+        "airlineName": "فلای پرشیا"
+       },
+       "operatorAirlineCode": "FP",
+       "operatorAirlineInfo": {
+        "airlineCode": "FP",
+        "airlineName": "فلای پرشیا"
+       },
+       "cabinType": "ECONOMY",
+       "seatsRemaining": 9,
+       "baggage": "20",
+       "isReturn": false,
+       "isCharter": false,
+       "showFlightSystemBadge": false,
+       "technicalStops": null,
+       "fareClass": "",
+       "equipment": "Boeing",
+       "visaTransit": ""
+      }
+     ],
+     "baggageDetail": {
+      "providerText": "20",
+      "baggageInfoType": "WEIGHT",
+      "weight": 20,
+      "count": 0,
+      "description": "20 کیلوگرم"
+     },
+     "visaTransit": null,
+     "badgeList": [
+      {
+       "type": "TAG",
+       "title": "خرید قسطی",
+       "style": {
+        "color": "pay",
+        "variant": "round-contained"
+       },
+       "data": null,
+       "icon": "celebration"
+      }
+     ]
+    }
+   ],
+   "rules": null,
+   "baggage": null,
+   "pricing": {
+    "totalBasePrice": 100511400,
+    "totalDumpedPrice": 0,
+    "totalCashback": 0,
+    "totalOldPayablePrice": 97000000,
+    "totalPayablePrice": 100511400,
+    "discountPercentage": 0,
+    "totalTax": 0,
+    "totalCommission": 0,
+    "currency": "IRR",
+    "priceChangeStatus": "UNKNOWN",
+    "pricingDetails": [
+     {
+      "passengerType": "ADULT",
+      "quantity": 1,
+      "basePrice": 100511400,
+      "dumpedPrice": 0,
+      "cashback": 0,
+      "oldPayablePrice": 97000000,
+      "payablePrice": 100511400,
+      "tax": 0,
+      "serviceTax": 0,
+      "commission": 0,
+      "currency": "IRR",
+      "discountPercentage": 0
+     },
+     {
+      "passengerType": "CHILD",
+      "quantity": 0,
+      "basePrice": 100511400,
+      "dumpedPrice": 0,
+      "cashback": 0,
+      "oldPayablePrice": 97000000,
+      "payablePrice": 100511400,
+      "tax": 0,
+      "serviceTax": 0,
+      "commission": 0,
+      "currency": "IRR",
+      "discountPercentage": 0
+     },
+     {
+      "passengerType": "INFANT",
+      "quantity": 0,
+      "basePrice": 30153420,
+      "dumpedPrice": 0,
+      "cashback": 0,
+      "oldPayablePrice": 97000000,
+      "payablePrice": 30153420,
+      "tax": 0,
+      "serviceTax": 0,
+      "commission": 0,
+      "currency": "IRR",
+      "discountPercentage": 69
+     }
+    ]
+   },
+   "duplicated": false,
+   "refundType": "REFUNDABLE",
+   "weight": 1,
+   "cancellationPolicies": null,
+   "bestSortingWeight": 1,
+   "defaultSortingWeight": 0,
+   "isPinned": false,
+   "description": {
+    "text": "",
+    "description_type": ""
+   },
+   "properties": null,
+   "travelRuleList": null,
+   "policies": [
+    {
+     "origin": "فرودگاه بین‌المللی مهرآباد",
+     "destination": "فرودگاه بین‌المللی مشهد (فرودگاه شهید هاشمی‌نژاد)",
+     "cancellationPolicies": [
+      {
+       "description": "از لحظه صدور تا ساعت 12:00 ظهر 3 روز قبل از پرواز",
+       "adultPenaltyPercentage": 70,
+       "childPenaltyPercentage": 70,
+       "infantPenaltyPercentage": 70
+      },
+      {
+       "description": "از ساعت 12:00 ظهر 3 روز قبل از پرواز تا ساعت 12:00 ظهر 2 روز قبل از پرواز",
+       "adultPenaltyPercentage": 80,
+       "childPenaltyPercentage": 80,
+       "infantPenaltyPercentage": 80
+      },
+      {
+       "description": "از ساعت 12:00 ظهر 2 روز قبل از پرواز تا 12 ساعت مانده به لحظه پرواز",
+       "adultPenaltyPercentage": 90,
+       "childPenaltyPercentage": 90,
+       "infantPenaltyPercentage": 90
+      },
+      {
+       "description": "از 12 ساعت مانده به لحظه پرواز به بعد",
+       "adultPenaltyPercentage": 100,
+       "childPenaltyPercentage": 100,
+       "infantPenaltyPercentage": 100
+      }
+     ]
+    }
+   ],
+   "installment": {
+    "total_price": 28765350,
+    "adult_price": 28765350,
+    "isAvailable": false
+   }
+  },
+  {
+   "id": "5768016055776463644-2",
+   "airlineCode": "EP",
+   "routes": [
+    {
+     "totalJourneyDuration": 90,
+     "totalConnectionsDuration": 0,
+     "originAirportCode": "THR",
+     "originAirportInfo": {
+      "airportCode": "THR",
+      "airportName": "",
+      "cityName": "Tehran",
+      "faCityName": "تهران",
+      "airportFaName": "فرودگاه بین‌المللی مهرآباد"
+     },
+     "destinationAirportCode": "MHD",
+     "destinationAirportInfo": {
+      "airportCode": "MHD",
+      "airportName": "",
+      "cityName": "Mashhad",
+      "faCityName": "مشهد",
+      "airportFaName": "فرودگاه بین‌المللی مشهد (فرودگاه شهید هاشمی‌نژاد)"
+     },
+     "segments": [
+      {
+       "departureDateTime": "2026-11-25T19:30:00",
+       "arrivalDateTime": "2026-11-25T21:00:00",
+       "flightNumber": "610",
+       "journeyDuration": 90,
+       "connectionDuration": 0,
+       "departureAirportCode": "THR",
+       "departureAirportInfo": {
+        "airportCode": "THR",
+        "airportName": "",
+        "cityName": "Tehran",
+        "faCityName": "تهران",
+        "airportFaName": "فرودگاه بین‌المللی مهرآباد"
+       },
+       "arrivalAirportCode": "MHD",
+       "arrivalAirportInfo": {
+        "airportCode": "MHD",
+        "airportName": "",
+        "cityName": "Mashhad",
+        "faCityName": "مشهد",
+        "airportFaName": "فرودگاه بین‌المللی مشهد (فرودگاه شهید هاشمی‌نژاد)"
+       },
+       "carrierAirlineCode": "EP",
+       "carrierAirlineInfo": {
+        "airlineCode": "EP",
+        "airlineName": "آسمان"
+       },
+       "operatorAirlineCode": "EP",
+       "operatorAirlineInfo": {
+        "airlineCode": "EP",
+        "airlineName": "آسمان"
+       },
+       "cabinType": "ECONOMY",
+       "seatsRemaining": 4,
+       "baggage": "20",
+       "isReturn": false,
+       "isCharter": false,
+       "showFlightSystemBadge": true,
+       "technicalStops": null,
+       "fareClass": "M",
+       "equipment": "737",
+       "visaTransit": ""
+      }
+     ],
+     "baggageDetail": {
+      "providerText": "20",
+      "baggageInfoType": "WEIGHT",
+      "weight": 20,
+      "count": 0,
+      "description": "20 کیلوگرم"
+     },
+     "visaTransit": null,
+     "badgeList": [
+      {
+       "type": "TAG",
+       "title": "خرید قسطی",
+       "style": {
+        "color": "pay",
+        "variant": "round-contained"
+       },
+       "data": null,
+       "icon": "celebration"
+      }
+     ]
+    }
+   ],
+   "rules": null,
+   "baggage": null,
+   "pricing": {
+    "totalBasePrice": 100699000,
+    "totalDumpedPrice": 0,
+    "totalCashback": 0,
+    "totalOldPayablePrice": 100699000,
+    "totalPayablePrice": 100699000,
+    "discountPercentage": 0,
+    "totalTax": 0,
+    "totalCommission": 0,
+    "currency": "IRR",
+    "priceChangeStatus": "UNKNOWN",
+    "pricingDetails": [
+     {
+      "passengerType": "ADULT",
+      "quantity": 1,
+      "basePrice": 100699000,
+      "dumpedPrice": 0,
+      "cashback": 0,
+      "oldPayablePrice": 100699000,
+      "payablePrice": 100699000,
+      "tax": 0,
+      "serviceTax": 0,
+      "commission": 0,
+      "currency": "IRR",
+      "discountPercentage": 0
+     },
+     {
+      "passengerType": "CHILD",
+      "quantity": 0,
+      "basePrice": 82120000,
+      "dumpedPrice": 0,
+      "cashback": 0,
+      "oldPayablePrice": 100699000,
+      "payablePrice": 82120000,
+      "tax": 0,
+      "serviceTax": 0,
+      "commission": 0,
+      "currency": "IRR",
+      "discountPercentage": 18
+     },
+     {
+      "passengerType": "INFANT",
+      "quantity": 0,
+      "basePrice": 7503000,
+      "dumpedPrice": 0,
+      "cashback": 0,
+      "oldPayablePrice": 100699000,
+      "payablePrice": 7503000,
+      "tax": 0,
+      "serviceTax": 0,
+      "commission": 0,
+      "currency": "IRR",
+      "discountPercentage": 93
+     }
+    ]
+   },
+   "duplicated": false,
+   "refundType": "REFUNDABLE",
+   "weight": 2,
+   "cancellationPolicies": null,
+   "bestSortingWeight": 2,
+   "defaultSortingWeight": 0.6712816534383641,
+   "isPinned": false,
+   "description": {
+    "text": "",
+    "description_type": ""
+   },
+   "properties": null,
+   "travelRuleList": null,
+   "policies": [
+    {
+     "origin": "فرودگاه بین‌المللی مهرآباد",
+     "destination": "فرودگاه بین‌المللی مشهد (فرودگاه شهید هاشمی‌نژاد)",
+     "cancellationPolicies": [
+      {
+       "description": "از لحظه صدور تا ساعت 12:00 ظهر 3 روز قبل از پرواز",
+       "adultPenaltyPercentage": 40,
+       "childPenaltyPercentage": 40,
+       "infantPenaltyPercentage": 40
+      },
+      {
+       "description": "از ساعت 12:00 ظهر 3 روز قبل از پرواز تا 24 ساعت مانده به لحظه پرواز",
+       "adultPenaltyPercentage": 60,
+       "childPenaltyPercentage": 60,
+       "infantPenaltyPercentage": 60
+      },
+      {
+       "description": "از 24 ساعت مانده به لحظه پرواز تا 6 ساعت مانده به لحظه پرواز",
+       "adultPenaltyPercentage": 90,
+       "childPenaltyPercentage": 90,
+       "infantPenaltyPercentage": 90
+      },
+      {
+       "description": "از 6 ساعت مانده به لحظه پرواز به بعد",
+       "adultPenaltyPercentage": 100,
+       "childPenaltyPercentage": 100,
+       "infantPenaltyPercentage": 100
+      }
+     ],
+     "textManagements": [
+      {
+       "title": "از 6 ساعت مانده به لحظه پرواز بعد  استرداد  عوارض بلیط",
+       "description": "از 6 ساعت مانده به لحظه پرواز بعد  استرداد  عوارض بلیط"
+      }
+     ]
+    }
+   ],
+   "installment": {
+    "total_price": 28950750,
+    "adult_price": 28950750,
+    "isAvailable": false
+   }
+  }
+ ],
+ "badges": [],
+ "recommendedTour": null
+}

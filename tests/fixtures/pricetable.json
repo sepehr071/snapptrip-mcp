@@ -1,0 +1,72 @@
+{
+ "price_table": [
+  {
+   "date": "2026-11-16",
+   "type": "-",
+   "price": 118104000
+  },
+  {
+   "date": "2026-11-17",
+   "type": "-",
+   "price": 79928000
+  },
+  {
+   "date": "2026-11-18",
+   "type": "-",
+   "price": 82000000
+  },
+  {
+   "date": "2026-11-19",
+   "type": "best_price",
+   "price": 63973000
+  },
+  {
+   "date": "2026-11-20",
+   "type": "best_price",
+   "price": 51810000
+  },
+  {
+   "date": "2026-11-21",
+   "type": "best_price",
+   "price": 65000000
+  },
+  {
+   "date": "2026-11-22",
+   "type": "-",
+   "price": 77000000
+  },
+  {
+   "date": "2026-11-23",
+   "type": "-",
+   "price": 76678800
+  },
+  {
+   "date": "2026-11-24",
+   "type": "-",
+   "price": 98269000
+  },
+  {
+   "date": "2026-11-25",
+   "type": "-",
+   "price": 100492000
+  },
+  {
+   "date": "2026-11-26",
+   "type": "-",
+   "price": 88000000
+  },
+  {
+   "date": "2026-11-27",
+   "type": "best_price",
+   "price": 72534000
+  }
+ ],
+ "request": {
+  "origin": "THR",
+  "destination": "MHD",
+  "product": "flight",
+  "date": "2026-11-16",
+  "channel": "website",
+  "type": "calendar"
+ }
+}

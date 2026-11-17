@@ -1,0 +1,303 @@
+{
+ "success": true,
+ "total": 112,
+ "page": 1,
+ "total_pages": 6,
+ "meta_data": {},
+ "data": [
+  {
+   "accommodation_title": "BoutiqueHotel",
+   "accommodation_type": "بوتیک هتل",
+   "address": "شیراز، سه راه نمازی به سمت شاهچراغ (خیابان شهید دستغیب)، کوچه 6.",
+   "city_id": 6640,
+   "city_title": "شیراز",
+   "cover_media": {
+    "id": 69983,
+    "media": "/domestic-hotel/3197/fb5b7f1c-6612-4ce3-a869-70060d5caf94.jpeg",
+    "title": "بوتیک هتل عمارت فرهادی شیراز اتاق تالار آینه"
+   },
+   "id": 3197,
+   "lang": "",
+   "discount_percent": 0,
+   "price": 10000000,
+   "price_off": 10000000,
+   "adjustments": {
+    "snapp_pro": 0,
+    "peg": 0,
+    "b2b": 0,
+    "other": 0,
+    "total": 0
+   },
+   "snapp_pro_discount": false,
+   "reviews": {
+    "ptp_ratings": "4.800000",
+    "ptp_reviews": "303",
+    "advisor_ratings": "",
+    "advisor_reviews": ""
+   },
+   "stars": 0,
+   "title": "عمارت فرهادی",
+   "fa_url": "بوتیک-هتل-عمارت-فرهادی",
+   "url": "بوتیک-هتل-عمارت-فرهادی",
+   "is_available": true,
+   "categories": null,
+   "min_price_room_title": "دو تخته برای یک نفر وصال",
+   "min_price_unavailable_room": 0,
+   "min_price_unavailable_room_title": "",
+   "min_price_available_room_count": 1,
+   "instalment_down_payment": "",
+   "instant_book": true,
+   "badges": [
+    {
+     "type": "ordinary",
+     "title": "کنسلی بدون جریمه",
+     "description": "",
+     "color": "#EBECF2"
+    },
+    {
+     "type": "ordinary",
+     "title": "ولکام رایگان",
+     "description": "",
+     "color": "#EBECF2"
+    }
+   ],
+   "pe_badge_title": "",
+   "city_url": "شیراز",
+   "rule_id": null,
+   "galleries": [
+    {
+     "id": 69983,
+     "title": "بوتیک هتل عمارت فرهادی شیراز اتاق تالار آینه",
+     "media": "/domestic-hotel/3197/fb5b7f1c-6612-4ce3-a869-70060d5caf94.jpeg",
+     "media_type": "",
+     "order_no": 0
+    }
+   ],
+   "facilities": [
+    {
+     "id": 15,
+     "icon": "mosque",
+     "title": "نمازخانه"
+    },
+    {
+     "id": 155,
+     "icon": "wc",
+     "title": "سرویس بهداشتی ایرانی"
+    },
+    {
+     "id": 156,
+     "icon": "wc",
+     "title": "سرویس بهداشتی فرنگی"
+    },
+    {
+     "id": 90,
+     "icon": "live_tv",
+     "title": "تلویزیون در لابی"
+    },
+    {
+     "id": 179,
+     "icon": "local_laundry_service",
+     "title": "لباسشویی"
+    }
+   ],
+   "location": [
+    29.612211,
+    52.540225
+   ]
+  },
+  {
+   "accommodation_title": "TraditionalHouse",
+   "accommodation_type": "اقامتگاه سنتی",
+   "address": "شیراز، خیابان لطفعلی خان زند، کوچه 36، پلاک 8.",
+   "city_id": 6640,
+   "city_title": "شیراز",
+   "cover_media": {
+    "id": 84981,
+    "media": "/domestic-hotel/4061/9dbb8499-fe9a-4f94-940d-7c8d3a57a91f.jpeg",
+    "title": "اقامتگاه سنتی سوریاس شیراز فضای محوطه "
+   },
+   "id": 4061,
+   "lang": "",
+   "discount_percent": 19,
+   "price": 12400000,
+   "price_off": 9920000,
+   "adjustments": {
+    "snapp_pro": 0,
+    "peg": -2480000,
+    "b2b": 0,
+    "other": 0,
+    "total": -2480000
+   },
+   "snapp_pro_discount": false,
+   "reviews": {
+    "ptp_ratings": "4.800000",
+    "ptp_reviews": "8",
+    "advisor_ratings": "",
+    "advisor_reviews": ""
+   },
+   "stars": 0,
+   "title": "سوریاس",
+   "fa_url": "اقامتگاه-سنتی-سوریاس",
+   "url": "اقامتگاه-سنتی-سوریاس",
+   "is_available": true,
+   "categories": null,
+   "min_price_room_title": "دو تخته دابل نارنج ",
+   "min_price_unavailable_room": 0,
+   "min_price_unavailable_room_title": "",
+   "min_price_available_room_count": 1,
+   "instalment_down_payment": "",
+   "instant_book": true,
+   "badges": [
+    {
+     "type": "ordinary",
+     "title": "کنسلی بدون جریمه",
+     "description": "",
+     "color": "#EBECF2"
+    }
+   ],
+   "pe_badge_title": "early_bird",
+   "city_url": "شیراز",
+   "rule_id": 11422,
+   "galleries": [
+    {
+     "id": 84981,
+     "title": "اقامتگاه سنتی سوریاس شیراز فضای محوطه ",
+     "media": "/domestic-hotel/4061/9dbb8499-fe9a-4f94-940d-7c8d3a57a91f.jpeg",
+     "media_type": "",
+     "order_no": 0
+    }
+   ],
+   "facilities": [
+    {
+     "id": 117,
+     "icon": "restaurant",
+     "title": "رستوران ایرانی"
+    },
+    {
+     "id": 393,
+     "icon": "wifi",
+     "title": "اینترنت رایگان و نامحدود"
+    },
+    {
+     "id": 155,
+     "icon": "wc",
+     "title": "سرویس بهداشتی ایرانی"
+    },
+    {
+     "id": 206,
+     "icon": "celebration",
+     "title": "تالار پذیرایی"
+    },
+    {
+     "id": 210,
+     "icon": "fire_extinguisher",
+     "title": "اعلام حریق"
+    }
+   ],
+   "location": [
+    29.609362188848678,
+    52.549080562992174
+   ]
+  },
+  {
+   "accommodation_title": "Hotel",
+   "accommodation_type": "هتل",
+   "address": "شیراز، بلوار شاهد، نبش کوچه 8.",
+   "city_id": 6640,
+   "city_title": "شیراز",
+   "cover_media": {
+    "id": 80622,
+    "media": "/domestic-hotel/3361/29d90840-a8eb-4a2b-a4a0-ff3efe0a9141.jpeg",
+    "title": "هتل رونیاس شیراز نمای بیرونی"
+   },
+   "id": 3361,
+   "lang": "",
+   "discount_percent": 0,
+   "price": 13968000,
+   "price_off": 13968000,
+   "adjustments": {
+    "snapp_pro": 0,
+    "peg": 0,
+    "b2b": 0,
+    "other": 0,
+    "total": 0
+   },
+   "snapp_pro_discount": false,
+   "reviews": {
+    "ptp_ratings": "4.700000",
+    "ptp_reviews": "92",
+    "advisor_ratings": "",
+    "advisor_reviews": ""
+   },
+   "stars": 4,
+   "title": "رونیاس",
+   "fa_url": "هتل-رونیاس",
+   "url": "هتل-رونیاس",
+   "is_available": true,
+   "categories": null,
+   "min_price_room_title": "دو تخته برای یک نفر",
+   "min_price_unavailable_room": 0,
+   "min_price_unavailable_room_title": "",
+   "min_price_available_room_count": 4,
+   "instalment_down_payment": "",
+   "instant_book": true,
+   "badges": [
+    {
+     "type": "ordinary",
+     "title": "هتل نوساز",
+     "description": "",
+     "color": "#EBECF2"
+    },
+    {
+     "type": "ordinary",
+     "title": "مناسب سفرهای سازمانی",
+     "description": "",
+     "color": "#EBECF2"
+    }
+   ],
+   "pe_badge_title": "",
+   "city_url": "شیراز",
+   "rule_id": null,
+   "galleries": [
+    {
+     "id": 80622,
+     "title": "هتل رونیاس شیراز نمای بیرونی",
+     "media": "/domestic-hotel/3361/29d90840-a8eb-4a2b-a4a0-ff3efe0a9141.jpeg",
+     "media_type": "",
+     "order_no": 0
+    }
+   ],
+   "facilities": [
+    {
+     "id": 15,
+     "icon": "mosque",
+     "title": "نمازخانه"
+    },
+    {
+     "id": 71,
+     "icon": "groups",
+     "title": "سالن اجتماعات"
+    },
+    {
+     "id": 117,
+     "icon": "restaurant",
+     "title": "رستوران ایرانی"
+    },
+    {
+     "id": 245,
+     "icon": "local_cafe",
+     "title": "کافی‌شاپ"
+    },
+    {
+     "id": 393,
+     "icon": "wifi",
+     "title": "اینترنت رایگان و نامحدود"
+    }
+   ],
+   "location": [
+    29.666694,
+    52.483713
+   ]
+  }
+ ]
+}

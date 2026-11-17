@@ -1,0 +1,84 @@
+{
+ "success": true,
+ "data": [
+  {
+   "id": 6640,
+   "en_url": "shiraz",
+   "fa_url": "شیراز",
+   "fa_title": "شیراز",
+   "en_title": "Shiraz",
+   "provider": "",
+   "en_state_title": "فارس",
+   "fa_state_title": "فارس",
+   "hotel_count": 128,
+   "location": {
+    "lat": 29.591768,
+    "lon": 52.583698
+   }
+  },
+  {
+   "id": 1131,
+   "en_url": "mashhad/shiraz-hotel",
+   "fa_url": "مشهد/هتل-شیراز",
+   "fa_title": "شیراز",
+   "en_title": "Shiraz",
+   "provider": "snapptrip",
+   "location": {
+    "lat": 0,
+    "lon": 0
+   },
+   "stars": 3,
+   "accommodation_type_title": "هتل",
+   "fa_city_title": "مشهد",
+   "en_city_title": "Mashhad"
+  },
+  {
+   "id": 267,
+   "en_url": "shiraz/persepolis-hotel",
+   "fa_url": "شیراز/هتل-پرسپولیس",
+   "fa_title": "پرسپولیس",
+   "en_title": "Persepolis",
+   "provider": "snapptrip",
+   "location": {
+    "lat": 0,
+    "lon": 0
+   },
+   "stars": 5,
+   "accommodation_type_title": "هتل",
+   "fa_city_title": "شیراز",
+   "en_city_title": "Shiraz"
+  },
+  {
+   "id": 172,
+   "en_url": "shiraz/shiraz-hotel-hotel",
+   "fa_url": "شیراز/هتل-بزرگ",
+   "fa_title": "بزرگ",
+   "en_title": "Shiraz Hotel",
+   "provider": "snapptrip",
+   "location": {
+    "lat": 0,
+    "lon": 0
+   },
+   "stars": 5,
+   "accommodation_type_title": "هتل",
+   "fa_city_title": "شیراز",
+   "en_city_title": "Shiraz"
+  },
+  {
+   "id": 3361,
+   "en_url": "shiraz/runias-hotel",
+   "fa_url": "شیراز/هتل-رونیاس",
+   "fa_title": "رونیاس",
+   "en_title": "Runias",
+   "provider": "snapptrip",
+   "location": {
+    "lat": 0,
+    "lon": 0
+   },
+   "stars": 4,
+   "accommodation_type_title": "هتل",
+   "fa_city_title": "شیراز",
+   "en_city_title": "Shiraz"
+  }
+ ]
+}

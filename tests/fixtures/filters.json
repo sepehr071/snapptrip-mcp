@@ -1,0 +1,151 @@
+{
+ "pricing": {
+  "cityID": 6640,
+  "min": 4978000,
+  "max": 4978000
+ },
+ "facilities": [
+  {
+   "id": 417,
+   "icon": "face",
+   "title": "آرایشگاه زنانه"
+  },
+  {
+   "id": 245,
+   "icon": "local_cafe",
+   "title": "کافی‌شاپ"
+  },
+  {
+   "id": 403,
+   "icon": "car_rental",
+   "title": "کرایه اتومبیل"
+  },
+  {
+   "id": 71,
+   "icon": "groups",
+   "title": "سالن اجتماعات"
+  },
+  {
+   "id": 660,
+   "icon": "what.ico",
+   "title": "روف گاردن"
+  },
+  {
+   "id": 15,
+   "icon": "mosque",
+   "title": "نمازخانه"
+  },
+  {
+   "id": 209,
+   "icon": "lan",
+   "title": "کافی‌نت"
+  },
+  {
+   "id": 393,
+   "icon": "wifi",
+   "title": "اینترنت رایگان و نامحدود"
+  },
+  {
+   "id": 155,
+   "icon": "wc",
+   "title": "سرویس بهداشتی ایرانی"
+  },
+  {
+   "id": 156,
+   "icon": "wc",
+   "title": "سرویس بهداشتی فرنگی"
+  },
+  {
+   "id": 178,
+   "icon": "dry_cleaning",
+   "title": "خشکشویی"
+  },
+  {
+   "id": 117,
+   "icon": "restaurant",
+   "title": "رستوران ایرانی"
+  }
+ ],
+ "accommodations": [
+  {
+   "type": "TourismComplex",
+   "title": "مجتمع گردشگری"
+  },
+  {
+   "type": "PassengerHouse",
+   "title": "خانه مسافر"
+  },
+  {
+   "type": "Hotel",
+   "title": "هتل"
+  },
+  {
+   "type": "Apartments",
+   "title": "هتل آپارتمان"
+  },
+  {
+   "type": "TraditionalHouse",
+   "title": "اقامتگاه سنتی"
+  },
+  {
+   "type": "Guesthouse",
+   "title": "مهمانسرا"
+  },
+  {
+   "type": "Ecolodge",
+   "title": "اقامتگاه بوم‌گردی"
+  },
+  {
+   "type": "BoutiqueHotel",
+   "title": "بوتیک هتل"
+  }
+ ],
+ "categories": [
+  {
+   "id": 14,
+   "name": "نوساز و بازسازی شده "
+  },
+  {
+   "id": 13,
+   "name": "موقعیت مکانی مناسب "
+  },
+  {
+   "id": 12,
+   "name": "مناسب سفر کاری "
+  },
+  {
+   "id": 10,
+   "name": "ترانسفر رایگان "
+  },
+  {
+   "id": 9,
+   "name": "تخفیف تاکسی اسنپ "
+  },
+  {
+   "id": 8,
+   "name": "پیشنهادی اسنپ‌تریپ "
+  },
+  {
+   "id": 6,
+   "name": "امکانات ویژه "
+  },
+  {
+   "id": 5,
+   "name": "تخفیف و سرویس‌های رایگان "
+  }
+ ],
+ "stars": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "rates": [
+  0,
+  3,
+  3.5,
+  4,
+  4.5
+ ]
+}
