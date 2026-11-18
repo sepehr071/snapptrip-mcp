@@ -1,6 +1,6 @@
 [project]
 name = "snapptrip-mcp"
-version = "0.1.1"
+version = "0.1.2"
 description = "Unofficial read-only MCP server for SnappTrip (snapptrip.com): Iranian hotel search, room prices, reviews and domestic flights."
 readme = "README.md"
 license = "PolyForm-Noncommercial-1.0.0"

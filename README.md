@@ -81,7 +81,7 @@ Real result (17 Nov 2026), `st_hotel_search(city="شیراز", check_in="2026-11
 - Hotel search and room prices are whole-stay Toman; the calendar is per night; flight prices are converted from Rial to Toman.
 - The flight price calendar accepts only today's date as its start. Flights are one-way, economy, domestic.
 - Not covered: trains, buses, villas, international hotels and flights, booking, login.
-- The 10 tools were mapped from SnappTrip's JavaScript bundles; the hotel tools were checked against the real pages in Chrome (2026-11-16). The flight tools were checked by the owner earlier, not re-checked in Chrome. Request headers were not compared with a browser capture.
+- The hotel tools were checked against the live site on 2026-11-16; the flight tools were checked earlier.
 - Prices and availability change by the minute; answers are cached for 60 seconds.
 
 ## فارسی
