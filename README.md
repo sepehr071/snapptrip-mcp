@@ -84,10 +84,6 @@ Real result (17 Nov 2026), `st_hotel_search(city="شیراز", check_in="2026-11
 - The 10 tools were mapped from SnappTrip's JavaScript bundles; the hotel tools were checked against the real pages in Chrome (2026-11-16). The flight tools were checked by the owner earlier, not re-checked in Chrome. Request headers were not compared with a browser capture.
 - Prices and availability change by the minute; answers are cached for 60 seconds.
 
-## How it works
-
-SnappTrip has no public API. The site's own hotel and flight endpoints were mapped from its web app and then verified in Chrome against the rendered pages (hotel cards, prices, rooms, review counts). The server calls those endpoints with a Chrome-impersonating client, read-only, with low concurrency and a short cache.
-
 ## فارسی
 
 <div dir="rtl">
